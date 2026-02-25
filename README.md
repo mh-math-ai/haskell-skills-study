@@ -5,3 +5,4 @@ Learning repository focused on Haskell skills to cover the intersection of Advan
 
 2026-02-24: Compiled the first Haskell code on Pop!OS workstation 
 
+2026-02-25: Practiced GHCi interface 
